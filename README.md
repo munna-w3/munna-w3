@@ -1,5 +1,4 @@
-Hi <img
-src="https://raw.githubusercontent.com/munna-w3/pics/refs/heads/main/hi.gif?token=GHSAT0AAAAAAC5FZJ27XDBX7VUBT3JOPUTSZ4C6JGA" style="size:60px;width:60px" />,
+Hi <img src="https://github.com/munna-w3/pics/blob/main/hi.gif" style="height:60px; width:70px" />,
 I'm Mehedi Hasan, a full-time security researcher on web3 space 🚀
 ------------------------------------------------
 
