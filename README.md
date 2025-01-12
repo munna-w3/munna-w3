@@ -2,7 +2,6 @@ Hi <img src="https://github.com/munna-w3/pics/blob/main/hi.gif" style="height:60
 I'm Mehedi Hasan, a full-time security researcher on web3 space 🚀
 ------------------------------------------------
 
-* 🌍  I'm based on my home.
 * 🚀  I'm currently working on ethereum blockchain.
 * 🧠  I'm learning rust and cryptography.
 * 🤝  I'm open to collaborating on web3 security research.
