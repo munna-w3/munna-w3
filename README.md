@@ -5,7 +5,7 @@ I'm Mehedi Hasan, a full-time security researcher on web3 space 🚀
 * 🚀  I'm currently working on ethereum blockchain.
 * 🧠  I'm learning rust and cryptography.
 * 🤝  I'm open to collaborating on web3 security research.
-* ⚡  Don't trust me, verify.
+* ⚡  Don't trust , verify.
 
 <a href="https://www.github.com/munna-w3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/munna-w3?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
