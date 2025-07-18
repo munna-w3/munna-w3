@@ -1,5 +1,5 @@
 Hi <img src="https://github.com/munna-w3/munna-w3/blob/main/hi.gif" style="height:60px; width:70px" />,
-I'm Mehedi Hasan, a full-time security researcher on web3 space 🚀
+I'm Mehedi Hasan, a full-time security researcher in web3 🚀
 ------------------------------------------------
 
 * 🚀  I'm currently working on ethereum blockchain.
