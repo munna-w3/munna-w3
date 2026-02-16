@@ -1,5 +1,5 @@
 Hi <img src="https://github.com/munna-w3/munna-w3/blob/main/hi.gif" style="height:60px; width:70px" />,
-I'm m3h3d1.eth, a full-time security researcher 🚀
+I'm munna, a full-time security researcher 🚀
 ------------------------------------------------
 
 * 🚀  I'm currently auditing solidity codebase.
